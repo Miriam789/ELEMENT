@@ -13,7 +13,15 @@ h1{
   color:#212121;
 }
 
+#quiz {
+	text-align:center;
+	font-family: 'Bungee';
+	font-size: 30pt;
+}
 
+#question {
+	margin-bottom: 29px;
+}
 
 
 
